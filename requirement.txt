@@ -1,8 +1,10 @@
-streamlit
+flask
+joblib
 scikit-learn
 xgboost
-joblib
-numpy
-pandas
 shap
 matplotlib
+numpy
+pandas
+scipy
+gunicorn
